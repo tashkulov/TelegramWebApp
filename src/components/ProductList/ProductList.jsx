@@ -14,7 +14,7 @@ const products = [
         id: 2,
         title: 'Nike Air Max 270',
         description: 'Спортивные кроссовки Nike Air Max 270',
-        price: 1,99'
+        price: 1990
     },
     {
         id: 3,
