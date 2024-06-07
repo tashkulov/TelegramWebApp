@@ -7,7 +7,7 @@ import ProductList from "./components/ProductList/ProductList.jsx";
 import Form from "./components/Form/Form.jsx";
 
 function App() {
-    const {onToggleButton,tg}=useTelegram();
+    const {tg}=useTelegram();
     useEffect(()=>{
         tg.ready();
     },[])
